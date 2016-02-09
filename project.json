@@ -1,5 +1,5 @@
 {
-		"name" : "cosmos-training-2",
+		"name" : "che-cosmos-training",
 		"packaging" : {
 			"status_page" : "/status",
 			"application_port" : "8080",
